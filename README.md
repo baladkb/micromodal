@@ -29,8 +29,6 @@ The aim of this library is to make modal dialogs accessible and easy to include 
 
 **[Demo and documentation](https://micromodal.now.sh/)**
 
-&nbsp;
-
 ## Features
 ✔︎ Toggles relevant aria attributes on open and close   
 ✔︎ Closes modal on overlay click   
@@ -38,8 +36,6 @@ The aim of this library is to make modal dialogs accessible and easy to include 
 ✔︎ Traps tab focus within the modal  
 ✔︎ Focuses on the first focusable element within the modal  
 ✔︎ Retains the focused element state after closing the modal  
-
-&nbsp;
 
 ## Installation
 
@@ -63,15 +59,11 @@ yarn add micromodal
 curl -o https://unpkg.com/micromodal/dist/micromodal.min.js
 ```
 
-&nbsp;
-
 ## Release History
 * 0.1.1
     * BUGFIX: Fixed issue where validation was not firing
 * 0.1.0
     * CHANGE: Released first minor version 😊
-
-&nbsp;
 
 ## Contributing
 
@@ -87,23 +79,16 @@ Micromodal follows the [standardjs](https://standardjs.com/) coding standard and
 5. [Optional] Run `yarn build` to build the files for distribution. This is run automatically as a pre-commit hook as well.
 6. Send us pull request and chill
 
-&nbsp;
-
 ## Licensing
 This project is licensed under [MIT license](https://opensource.org/licenses/MIT).
 
-&nbsp;
 ## Related
 - [Microtip](https://github.com/ghosh/microtip) - Modern, lightweight, accessible css tooltip library. Just 1kb.
-
-&nbsp;
 
 ## Contact
 You can mention us on Twitter for any questions, suggestions or just send us funny GIF. We ♥️ GIF.
 #### Tweet some love   ![Tweet](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/twitter-20.png)
 [Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgoo.gl%2FsEgnBZ&text=Make%20your%20modal%20dialogs%20accessible%20to%20all%20using%20Micromodal.js%2C%20a%20tiny%20library%20for%20big%20change.&hashtags=a11y "Tweet about Micromodal") about Micromodal and help us to spread the message about the importance of Web accessibility and Inclusive design.
-
-&nbsp;
 
 ## Contributors
 
